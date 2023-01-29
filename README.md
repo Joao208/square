@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/square.svg" alt="Square logo" width="200px" heigth="200px">
+  <img src="public/square.svg" alt="Square logo" width="200px" height="200px">
 </p>
 
 # Square - Tailwind, liveblocks.io & React Flow Learning Project
@@ -14,6 +14,16 @@ This project, named "Square", is aimed at exploring the use of Tailwind CSS, liv
 - React Flow
 
 ## Getting Started
+
+You need the liveblocks token.
+
+Access https://liveblocks.io/, log in, select the project development and go to API Keys, then, copy the Public API Key.
+
+Now you can past at the `.env`
+
+```.env
+NEXT_PUBLIC_LIVE_BLOCKS_PUBLIC_KEY=<PASTE HERE>
+```
 
 To run the project locally, clone the repository and install the dependencies with:
 
