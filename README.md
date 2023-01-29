@@ -13,6 +13,10 @@ This project, named "Square", is aimed at exploring the use of Tailwind CSS, liv
 - liveblocks.io
 - React Flow
 
+## Demo
+
+Demo link: https://square-blond.vercel.app/
+
 ## Getting Started
 
 You need the liveblocks token.
@@ -48,3 +52,9 @@ The app will be running on http://localhost:3000.
 ## Contributing
 
 Feel free to contribute to the project by submitting pull requests or reporting issues. Let's learn and grow together!
+
+## Deploy
+
+<a href="https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fyour-username%2Fsquare">
+  <img src="https://vercel.com/button" alt="Add to Vercel">
+</a>
